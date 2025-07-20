@@ -42,3 +42,7 @@ works and gives the correct answer even after the context is varied.
 <img width="939" height="691" alt="image" src="https://github.com/user-attachments/assets/8c916368-5f58-49cc-8c69-ac07e8c94415" />
 
 #### **NOTE: I am using the paid OpenAI API's to invoke the model `gpt-4o-mini`.** 
+
+### More Results:
+<img width="1626" height="881" alt="image" src="https://github.com/user-attachments/assets/05f363fc-31ed-4cc6-bd83-84c075263bd8" />
+
